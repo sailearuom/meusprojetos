@@ -1,0 +1,212 @@
+body {
+    margin: 0px;
+    
+}
+
+header#cabecalho h1 {
+    display: block;
+    color: #3d3d5c;
+    font-size: 30pt;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    float:left;
+    margin-left: 60px;
+}
+
+img#imagemmenu {
+    display: block;
+    width:100%;
+}
+
+nav#menuprincipal {
+    float: right;
+    margin-top: 21px;
+}
+
+nav#menuprincipal li {
+    display: inline-block;
+    padding: 5px;
+    margin-right: 40px;
+    color: #3d3d5c;
+    font-size: 12pt;
+    font-family: Apple Chancery, cursive;
+}
+
+nav#menuprincipal li a {
+    text-decoration: none;
+    color:  #3d3d5c;
+}
+
+nav#menuprincipal li:hover {
+    text-decoration: underline;
+}
+
+.proprietarios {
+    text-align: center;
+    font-family: Snell Roundhand, cursive;
+    font-size: 20pt;
+    color: #807b79;
+}
+
+.proprietarios2 {
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+    font-size: 16pt;
+    color: #606060;
+}
+
+img#cafelivro {
+    width:100%;
+}
+
+img#cafetorado {
+    margin-left: 50px;
+}
+
+article#news1 h2 {
+    margin-left: 50px;
+    font-size: 25pt;
+    font-family: Snell Roundhand, cursive;
+    color: #787472;
+}
+
+article#news1 h3 {
+    margin-left: 50px;
+    color: #9c9895;
+}
+
+article#news1 p {
+    margin-left: 50px;
+    font-size: 14pt;
+    font-family: URW Chancery L, cursive;
+    color: #636160;
+    text-align: justify;
+}
+
+div#newarticle1 {
+    position: relative;
+    height: 600px;
+    width: 600px;
+    margin-left: 50px;
+}
+
+div#newarticle2 {
+    position: absolute;
+    height: 600px;
+    width: 600px;
+    left: 700px;
+    top:1124px;
+}
+
+article#cardapio h2 {
+    text-align: center;
+    font-size: 20pt;
+    color: #6e6967;
+}
+
+article#cardapio h1 {
+    text-align: center;
+    font-size: 30pt;
+    font-family: mCourier New, monospace;
+    color: #635f5d;
+}
+
+table#cafepreco {
+    position: relative;
+    left: 270px;
+}
+
+table#cafepreco td {
+    padding-inline: 150px;
+    font-size: 15pt;
+    font-family:FreeMono, monospace;
+    color: #8a827f;
+}
+
+table#cafepreco1 {
+    position: relative;
+    left: 270px;
+}
+
+table#cafepreco1 td {
+    padding-inline: 78px;
+    font-size: 15pt;
+    font-family:FreeMono, monospace;
+    color: #8a827f;
+}
+
+div#textoesquerda {
+    position: relative;
+    height: 300px;
+    width: 500px;
+    margin-left:100px;
+}
+
+div#textoesquerda h1 {
+    font-size: 30pt;
+    font-family: Comic Sans MS, Comic Sans, cursive;
+    color: #635f5d;
+}
+
+div#textoesquerda p {
+    font-size: 15pt;
+    font-family:FreeMono, monospace;
+    color: #8a827f;
+}
+
+div#imagemdireita {
+    position: absolute;
+    right: 300px;
+    top: 600px;
+    margin: 0px;
+    padding: 0px;
+}
+
+div#imagemdireita1 {
+    position: absolute;
+    right: 300px;
+    margin: 0px;
+    padding: 0px;
+    top: 950px;
+}
+
+article#contato h1 {
+    font-size: 30pt;
+    font-family:Comic Sans MS, Comic Sans, cursive;
+    color:#635f5d;
+}
+
+article#contato h2 {
+    font-size: 15pt;
+    font-family: FreeMono, monospace;
+    color: #635f5d;
+}
+
+article#contato h3 {
+    font-size: 13pt;
+    font-family: mCourier New, monospace;
+    color: #8a827f;
+}
+
+div#contatofinal {
+    margin-left: 70px;
+    position: relative;
+}
+
+div#mapa {
+    position: absolute;
+    left: 700px;
+    top: 470px;
+}
+
+.rodape {
+    clear: both;
+    text-align: center;
+    font-family: Bradley Hand, cursive;
+    font-size: 15px;
+    color: gray;
+}
+
+footer {
+    clear: both;
+    border-top: 1px solid #606060;
+}
